@@ -1,0 +1,5 @@
+color =('red','blue','green')
+card =('jack','king','queen')
+book =('story','school','poem')
+color_codes =(color,card,book)
+print(color_codes)
